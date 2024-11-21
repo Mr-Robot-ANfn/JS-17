@@ -17,3 +17,36 @@
 // function deleteRow(button){
 //     button.parentElement.parentElement.remove();
 // }
+
+
+// QUESTION 4
+
+// let a=document.querySelector(".img")
+// a.addEventListener("mouseover",()=>{
+//     a.src="IMAGES/download (1).jfif"
+// })
+
+
+// let b=document.querySelector(".img")
+// a.addEventListener("mouseout",()=>{
+//     a.src="IMAGES/download.jfif"
+// })
+
+
+
+// QUESTION 5
+
+// let counter=0;
+
+
+
+// document.getElementById("increaseBtn").addEventListener("click", () => {
+//     counter++; 
+//     document.getElementById("counter").textContent = counter; 
+// });
+
+
+// document.getElementById("decreaseBtn").addEventListener("click", () => {
+//     counter--; 
+//     document.getElementById("counter").textContent = counter; 
+// });
